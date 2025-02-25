@@ -1,0 +1,8 @@
+flask
+flask-cors
+tushare
+pandas
+numpy<2.0  # 限制 numpy 版本，避免 Talib 失败
+TA-Lib  # 确保正确拼写
+tensorflow
+scikit-learn
